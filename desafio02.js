@@ -60,7 +60,8 @@ class ProductManager {
     }
 }
 
-//Instancio productos
+// ___________________________________
+
 const Producto1 = {
     titulo: "Nike Dunk Low Harvest Moon",
     descripcion: "Zapatillas talle 10",
